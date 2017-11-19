@@ -3,3 +3,4 @@ my first github repository
 hey there .i'm a person who seeking new things in life.
 
 i do my edits on master branch.what the fuck ?
+i create a secondary tree to check weather the bulshit working or not
